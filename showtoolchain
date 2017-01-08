@@ -1,0 +1,4 @@
+#!/bin/bash
+
+
+echo "cross tool chain is ${LOCALTOOLCHAIN}"
